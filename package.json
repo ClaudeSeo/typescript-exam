@@ -1,0 +1,23 @@
+{
+  "name": "typescript-study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClaudeSeo/typescript-study.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ClaudeSeo/typescript-study/issues"
+  },
+  "homepage": "https://github.com/ClaudeSeo/typescript-study#readme",
+  "dependencies": {
+    "@types/node": "^10.7.1",
+    "typescript": "^3.0.1"
+  }
+}
